@@ -2,20 +2,27 @@ API -  LISTAGEM E ALTERAÇÃO DE USUÁRIOS
 
 1. faça o dowload dos diretórios e envie para o diretório onde vai ser usado.
 
-2. A seguir crie na sua página, onde deseja listar os usuários, Três formulários:
+2.Configure o seu banco de dados em src/settings.php em //DB Settings:
 
-Um formulário para adicionar:
--Contendo (name, email)
--Enviar o form via post para: <Seu host>/<Sua pasta(se houver)>/public/api/v1/users/add
+'db'=> [
+            'driver' => '(preencha com o gerenciador de banco de dados. EX: mysql)',
+            'host' => '(preencha com seu host)',
+            'database' => '(nome do banco de dados)',
+            'username' => 'root',
+            'password' => '',
+            'charset' => 'utf8',
+            'collation' => 'utf8_unicode_ci',
+            'prefix' => '',
+          
+        ]
 
-Um formulário para atualizar: 
--Contendo (name, email)
--Enviar o form via put para: <Seu host>/<Sua pasta(se houver)>/public/api/v1/users/remove
-  
- Um formulário para deletar
--Contendo (id)
--Enviar o form via get para: <Seu host>/<Sua pasta(se houver)>/public/api/v1/users/add
-  
- 3.
- URL Para listar os Usuários: <Seu host>/<Sua pasta(se houver)>/public/api/v1/users/list
+3. Execute Servidor/diretório/db.php -> Será Criado um banco de dados default com alguns usuarios.
+
+EX: localhost/user-api/db.php
+
+4. Execute Servidor/diretório/public/index.html 
+
+5. Use da forma que melhor lhe aprouver
+
+
  
