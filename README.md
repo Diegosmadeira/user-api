@@ -2,7 +2,7 @@
 
 
 
-            1. faça o dowload dos diretórios e envie para o diretório onde vai ser usado.
+            1. faça o dowload dos diretórios (clicando em CODE -> DOWLOAD ZIP) para o diretório onde vai ser usado.
 
 
 
