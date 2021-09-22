@@ -40,7 +40,7 @@
 
             5. Use as you see fit
             
-            6. o test the 'Update' User Specific method, use a App Postman extension - 
+            6. To test the 'Update' User Specific method, use a App Postman extension - 
             https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
             
             Select the PUT method
