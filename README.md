@@ -46,7 +46,7 @@
                Abra o CMD do Windows
                
                Crie um novo ambiente de desenvolvimento
-               Digite :cd (insira o caminho da pasta de desenvolvimento) 
+               Digite: cd (insira o caminho da pasta de desenvolvimento) 
                Press: Enter
                Digite: php -s localhost:8080
                Press: Enter
