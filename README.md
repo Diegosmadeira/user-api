@@ -1,18 +1,18 @@
-            API -  LISTAGEM E ALTERAÇÃO DE USUÁRIOS
+            API - LISTING AND CHANGING USERS
             
-            Requisitos: Servidor, Gerenciador de  banco de dados e editor de texto instalados.
-            Sugestão: XAMPP (https://www.apachefriends.org/download.html)
-            Sugestão: Sublime-text (https://www.sublimetext.com/download)
+            Requirements: Server, Database Manager and text editor installed.
+            Suggestion: XAMPP (https://www.apachefriends.org/download.html)
+            Suggestion: Sublime-text (https://www.sublimetext.com/download)
 
 
-            1. faça o dowload dos diretórios (clicando em CODE -> DOWLOAD ZIP) para o diretório onde vai ser usado.
+            1. download the directories (by clicking on CODE -> DOWLOAD ZIP) into the directory where it will be used.
 
-                        Descompactar o diretório.
-                        Renomear o diretório User-api-master para user-api 
-                        Descompactar o arquivo vendor.zip
+                        Unzip the directory.
+                        Rename the User-api-master directory to user-api 
+                        Unzip the file vendor.zip
                        
 
-            2.Configure o seu banco de dados em src/settings.php em //DB Settings:
+            2.Configure your database in src/settings.php under //DB Settings:
 
             'db'=> [
 
@@ -28,28 +28,28 @@
                     ]
 
              
-            3. Execute Servidor/diretório/db.php -> Será Criado um banco de dados default com alguns usuarios.
+            3. Run Server/directory/db.php -> A default database will be created with some users.
 
             EX: localhost/user-api/db.php
                
                
 
-            4. Execute Servidor/diretório/public/index.html 
+            4. Run Server/Directory/public/index.html 
 
 
 
-            5. Use da forma que melhor lhe aprouver
+            5. Use as you see fit
             
-            6. Para testar o método Update Specific User, use a App Postman extension - 
+            6. o test the 'Update' User Specific method, use a App Postman extension - 
             https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop
             
-            Selecinoe o método put
-            Escreva a Rota: localhost/user-api/public/api/v1/users/update/(O ID que se deseja atualizar)
-            Clique em Body
-            selecione (x-www-form-urlencoded)
-            Insira a key 'name' - '(O valor que quiser)' 
-            Insira a key 'email' - '(O email que quiser)'
-            Clique em Send.
+            Select the PUT method
+            Write the Route: localhost/user-api/public/api/v1/users/update/(The ID you want to update)
+            Click on Body
+            select (x-www-form-urlencoded)
+            Enter the key 'name' - '(Whatever value you want)'. 
+            Enter the key 'email' - '(The email you want)'.
+            Click Send.
 
 
 
