@@ -46,7 +46,8 @@
             Selecinoe o método put
             Escreva a Rota: localhost/user-api/public/api/v1/users/update/(O ID que se deseja atualizar)
             Clique em Body
-            Insira a key 'nome' - '(O valor que quiser)' 
+            selecione (x-www-form-urlencoded)
+            Insira a key 'name' - '(O valor que quiser)' 
             Insira a key 'email' - '(O email que quiser)'
             Clique em Send.
 
