@@ -8,7 +8,7 @@
             1. download the directories (by clicking on CODE -> DOWLOAD ZIP) into the directory where it will be used.
 
                         Unzip the directory.
-                        Rename the User-api-master directory to user-api 
+                        Rename the user-api-master directory to user-api 
                         Unzip the file vendor.zip
                        
 
