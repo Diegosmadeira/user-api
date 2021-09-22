@@ -1,8 +1,8 @@
             API -  LISTAGEM E ALTERAÇÃO DE USUÁRIOS
             
-            Requisitos: Servidor e Gerenciador de  banco de dados instalados.
+            Requisitos: Servidor, Gerenciador de  banco de dados e editor de texto instalados.
             Sugestão: XAMPP (https://www.apachefriends.org/download.html)
-
+            Sugestão: Sublime-text (https://www.sublimetext.com/download)
 
 
             1. faça o dowload dos diretórios (clicando em CODE -> DOWLOAD ZIP) para o diretório onde vai ser usado.
