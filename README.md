@@ -7,7 +7,10 @@
 
             1. faça o dowload dos diretórios (clicando em CODE -> DOWLOAD ZIP) para o diretório onde vai ser usado.
 
-            
+                        Descompactar o diretório.
+                        Descompactar o arquivo vendor.zip
+                        
+                 
                
                
         
