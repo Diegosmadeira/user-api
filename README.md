@@ -1,4 +1,7 @@
             API -  LISTAGEM E ALTERAÇÃO DE USUÁRIOS
+            
+            Requisitos: Servidor e Gerenciador de  banco de dados instalados.
+            Sugestão: XAMPP (https://www.apachefriends.org/download.html)
 
 
 
